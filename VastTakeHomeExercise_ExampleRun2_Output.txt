@@ -1,0 +1,1155 @@
+Enter Number Of Stations: 2
+Enter Number of Trucks: 4
+@ Minute '1' of simulation:
+        Truck #0 is Moving   : Moving takes 30
+        Truck #1 is Moving   : Moving takes 30
+        Truck #2 is Moving   : Moving takes 30
+        Truck #3 is Moving   : Moving takes 30
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 0 truck(s) in the queue.
+
+@ Minute '31' of simulation:
+        Truck #0 is Mining   : Mining session takes 158
+        Truck #1 is Mining   : Mining session takes 213
+        Truck #2 is Queuing
+        Truck #3 is Queuing
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '189' of simulation:
+        Truck #0 is Unloading: Unloading takes 5
+        Truck #1 is Mining   : Mining session takes 213
+        Truck #2 is Queuing
+        Truck #3 is Queuing
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '194' of simulation:
+        Truck #0 is Moving   : Moving takes 30
+        Truck #1 is Mining   : Mining session takes 213
+        Truck #2 is Mining   : Mining session takes 245
+        Truck #3 is Queuing
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '224' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 213
+        Truck #2 is Mining   : Mining session takes 245
+        Truck #3 is Queuing
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '244' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Unloading: Unloading takes 5
+        Truck #2 is Mining   : Mining session takes 245
+        Truck #3 is Queuing
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '249' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Moving   : Moving takes 30
+        Truck #2 is Mining   : Mining session takes 245
+        Truck #3 is Mining   : Mining session takes 75
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '279' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 245
+        Truck #3 is Mining   : Mining session takes 75
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '324' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 245
+        Truck #3 is Unloading: Unloading takes 5
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '329' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 263
+        Truck #2 is Mining   : Mining session takes 245
+        Truck #3 is Moving   : Moving takes 30
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '359' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 263
+        Truck #2 is Mining   : Mining session takes 245
+        Truck #3 is Queuing
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '439' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 263
+        Truck #2 is Unloading: Unloading takes 5
+        Truck #3 is Queuing
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '444' of simulation:
+        Truck #0 is Mining   : Mining session takes 178
+        Truck #1 is Mining   : Mining session takes 263
+        Truck #2 is Moving   : Moving takes 30
+        Truck #3 is Queuing
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '474' of simulation:
+        Truck #0 is Mining   : Mining session takes 178
+        Truck #1 is Mining   : Mining session takes 263
+        Truck #2 is Queuing
+        Truck #3 is Queuing
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '592' of simulation:
+        Truck #0 is Mining   : Mining session takes 178
+        Truck #1 is Unloading: Unloading takes 5
+        Truck #2 is Queuing
+        Truck #3 is Queuing
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '597' of simulation:
+        Truck #0 is Mining   : Mining session takes 178
+        Truck #1 is Moving   : Moving takes 30
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 75
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '622' of simulation:
+        Truck #0 is Unloading: Unloading takes 5
+        Truck #1 is Moving   : Moving takes 30
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 75
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '627' of simulation:
+        Truck #0 is Moving   : Moving takes 30
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 208
+        Truck #3 is Mining   : Mining session takes 75
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '657' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 208
+        Truck #3 is Mining   : Mining session takes 75
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '672' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 208
+        Truck #3 is Unloading: Unloading takes 5
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '677' of simulation:
+        Truck #0 is Mining   : Mining session takes 149
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 208
+        Truck #3 is Moving   : Moving takes 30
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '707' of simulation:
+        Truck #0 is Mining   : Mining session takes 149
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 208
+        Truck #3 is Queuing
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '826' of simulation:
+        Truck #0 is Unloading: Unloading takes 5
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 208
+        Truck #3 is Queuing
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '831' of simulation:
+        Truck #0 is Moving   : Moving takes 30
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 208
+        Truck #3 is Mining   : Mining session takes 174
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '835' of simulation:
+        Truck #0 is Moving   : Moving takes 30
+        Truck #1 is Queuing
+        Truck #2 is Unloading: Unloading takes 5
+        Truck #3 is Mining   : Mining session takes 174
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '840' of simulation:
+        Truck #0 is Moving   : Moving takes 30
+        Truck #1 is Mining   : Mining session takes 156
+        Truck #2 is Moving   : Moving takes 30
+        Truck #3 is Mining   : Mining session takes 174
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 0 truck(s) in the queue.
+
+@ Minute '861' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 156
+        Truck #2 is Moving   : Moving takes 30
+        Truck #3 is Mining   : Mining session takes 174
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '870' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 156
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 174
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '996' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Unloading: Unloading takes 5
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 174
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '1001' of simulation:
+        Truck #0 is Mining   : Mining session takes 167
+        Truck #1 is Moving   : Moving takes 30
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 174
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '1005' of simulation:
+        Truck #0 is Mining   : Mining session takes 167
+        Truck #1 is Moving   : Moving takes 30
+        Truck #2 is Queuing
+        Truck #3 is Unloading: Unloading takes 5
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '1010' of simulation:
+        Truck #0 is Mining   : Mining session takes 167
+        Truck #1 is Moving   : Moving takes 30
+        Truck #2 is Mining   : Mining session takes 274
+        Truck #3 is Moving   : Moving takes 30
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 0 truck(s) in the queue.
+
+@ Minute '1031' of simulation:
+        Truck #0 is Mining   : Mining session takes 167
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 274
+        Truck #3 is Moving   : Moving takes 30
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '1040' of simulation:
+        Truck #0 is Mining   : Mining session takes 167
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 274
+        Truck #3 is Queuing
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '1168' of simulation:
+        Truck #0 is Unloading: Unloading takes 5
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 274
+        Truck #3 is Queuing
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '1173' of simulation:
+        Truck #0 is Moving   : Moving takes 30
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 274
+        Truck #3 is Mining   : Mining session takes 134
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '1203' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 274
+        Truck #3 is Mining   : Mining session takes 134
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '1284' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Queuing
+        Truck #2 is Unloading: Unloading takes 5
+        Truck #3 is Mining   : Mining session takes 134
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '1289' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 186
+        Truck #2 is Moving   : Moving takes 30
+        Truck #3 is Mining   : Mining session takes 134
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '1307' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 186
+        Truck #2 is Moving   : Moving takes 30
+        Truck #3 is Unloading: Unloading takes 5
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '1312' of simulation:
+        Truck #0 is Mining   : Mining session takes 67
+        Truck #1 is Mining   : Mining session takes 186
+        Truck #2 is Moving   : Moving takes 30
+        Truck #3 is Moving   : Moving takes 30
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 0 truck(s) in the queue.
+
+@ Minute '1319' of simulation:
+        Truck #0 is Mining   : Mining session takes 67
+        Truck #1 is Mining   : Mining session takes 186
+        Truck #2 is Queuing
+        Truck #3 is Moving   : Moving takes 30
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '1342' of simulation:
+        Truck #0 is Mining   : Mining session takes 67
+        Truck #1 is Mining   : Mining session takes 186
+        Truck #2 is Queuing
+        Truck #3 is Queuing
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '1379' of simulation:
+        Truck #0 is Unloading: Unloading takes 5
+        Truck #1 is Mining   : Mining session takes 186
+        Truck #2 is Queuing
+        Truck #3 is Queuing
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '1384' of simulation:
+        Truck #0 is Moving   : Moving takes 30
+        Truck #1 is Mining   : Mining session takes 186
+        Truck #2 is Mining   : Mining session takes 122
+        Truck #3 is Queuing
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '1414' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 186
+        Truck #2 is Mining   : Mining session takes 122
+        Truck #3 is Queuing
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '1475' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Unloading: Unloading takes 5
+        Truck #2 is Mining   : Mining session takes 122
+        Truck #3 is Queuing
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '1480' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Moving   : Moving takes 30
+        Truck #2 is Mining   : Mining session takes 122
+        Truck #3 is Mining   : Mining session takes 244
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '1506' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Moving   : Moving takes 30
+        Truck #2 is Unloading: Unloading takes 5
+        Truck #3 is Mining   : Mining session takes 244
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '1510' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Queuing
+        Truck #2 is Unloading: Unloading takes 5
+        Truck #3 is Mining   : Mining session takes 244
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '1511' of simulation:
+        Truck #0 is Mining   : Mining session takes 197
+        Truck #1 is Queuing
+        Truck #2 is Moving   : Moving takes 30
+        Truck #3 is Mining   : Mining session takes 244
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '1541' of simulation:
+        Truck #0 is Mining   : Mining session takes 197
+        Truck #1 is Queuing
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 244
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '1708' of simulation:
+        Truck #0 is Unloading: Unloading takes 5
+        Truck #1 is Queuing
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 244
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '1713' of simulation:
+        Truck #0 is Moving   : Moving takes 30
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 192
+        Truck #3 is Mining   : Mining session takes 244
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '1724' of simulation:
+        Truck #0 is Moving   : Moving takes 30
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 192
+        Truck #3 is Unloading: Unloading takes 5
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '1729' of simulation:
+        Truck #0 is Moving   : Moving takes 30
+        Truck #1 is Mining   : Mining session takes 95
+        Truck #2 is Mining   : Mining session takes 192
+        Truck #3 is Moving   : Moving takes 30
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 0 truck(s) in the queue.
+
+@ Minute '1743' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 95
+        Truck #2 is Mining   : Mining session takes 192
+        Truck #3 is Moving   : Moving takes 30
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '1759' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 95
+        Truck #2 is Mining   : Mining session takes 192
+        Truck #3 is Queuing
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '1824' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Unloading: Unloading takes 5
+        Truck #2 is Mining   : Mining session takes 192
+        Truck #3 is Queuing
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '1829' of simulation:
+        Truck #0 is Mining   : Mining session takes 136
+        Truck #1 is Moving   : Moving takes 30
+        Truck #2 is Mining   : Mining session takes 192
+        Truck #3 is Queuing
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '1859' of simulation:
+        Truck #0 is Mining   : Mining session takes 136
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 192
+        Truck #3 is Queuing
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '1905' of simulation:
+        Truck #0 is Mining   : Mining session takes 136
+        Truck #1 is Queuing
+        Truck #2 is Unloading: Unloading takes 5
+        Truck #3 is Queuing
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '1910' of simulation:
+        Truck #0 is Mining   : Mining session takes 136
+        Truck #1 is Queuing
+        Truck #2 is Moving   : Moving takes 30
+        Truck #3 is Mining   : Mining session takes 137
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '1940' of simulation:
+        Truck #0 is Mining   : Mining session takes 136
+        Truck #1 is Queuing
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 137
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '1965' of simulation:
+        Truck #0 is Unloading: Unloading takes 5
+        Truck #1 is Queuing
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 137
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '1970' of simulation:
+        Truck #0 is Moving   : Moving takes 30
+        Truck #1 is Mining   : Mining session takes 300
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 137
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '2000' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 300
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 137
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '2047' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 300
+        Truck #2 is Queuing
+        Truck #3 is Unloading: Unloading takes 5
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '2052' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 300
+        Truck #2 is Mining   : Mining session takes 77
+        Truck #3 is Moving   : Moving takes 30
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '2082' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 300
+        Truck #2 is Mining   : Mining session takes 77
+        Truck #3 is Queuing
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '2129' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 300
+        Truck #2 is Unloading: Unloading takes 5
+        Truck #3 is Queuing
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '2134' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 300
+        Truck #2 is Moving   : Moving takes 30
+        Truck #3 is Mining   : Mining session takes 178
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '2164' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 300
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 178
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '2270' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Unloading: Unloading takes 5
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 178
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '2275' of simulation:
+        Truck #0 is Mining   : Mining session takes 218
+        Truck #1 is Moving   : Moving takes 30
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 178
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '2305' of simulation:
+        Truck #0 is Mining   : Mining session takes 218
+        Truck #1 is Queuing
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 178
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '2312' of simulation:
+        Truck #0 is Mining   : Mining session takes 218
+        Truck #1 is Queuing
+        Truck #2 is Queuing
+        Truck #3 is Unloading: Unloading takes 5
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '2317' of simulation:
+        Truck #0 is Mining   : Mining session takes 218
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 125
+        Truck #3 is Moving   : Moving takes 30
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '2347' of simulation:
+        Truck #0 is Mining   : Mining session takes 218
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 125
+        Truck #3 is Queuing
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '2442' of simulation:
+        Truck #0 is Mining   : Mining session takes 218
+        Truck #1 is Queuing
+        Truck #2 is Unloading: Unloading takes 5
+        Truck #3 is Queuing
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '2447' of simulation:
+        Truck #0 is Mining   : Mining session takes 218
+        Truck #1 is Queuing
+        Truck #2 is Moving   : Moving takes 30
+        Truck #3 is Mining   : Mining session takes 202
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '2477' of simulation:
+        Truck #0 is Mining   : Mining session takes 218
+        Truck #1 is Queuing
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 202
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '2493' of simulation:
+        Truck #0 is Unloading: Unloading takes 5
+        Truck #1 is Queuing
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 202
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '2498' of simulation:
+        Truck #0 is Moving   : Moving takes 30
+        Truck #1 is Mining   : Mining session takes 186
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 202
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '2528' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 186
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 202
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '2649' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 186
+        Truck #2 is Queuing
+        Truck #3 is Unloading: Unloading takes 5
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '2654' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 186
+        Truck #2 is Mining   : Mining session takes 292
+        Truck #3 is Moving   : Moving takes 30
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '2684' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Unloading: Unloading takes 5
+        Truck #2 is Mining   : Mining session takes 292
+        Truck #3 is Queuing
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '2689' of simulation:
+        Truck #0 is Mining   : Mining session takes 130
+        Truck #1 is Moving   : Moving takes 30
+        Truck #2 is Mining   : Mining session takes 292
+        Truck #3 is Queuing
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '2719' of simulation:
+        Truck #0 is Mining   : Mining session takes 130
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 292
+        Truck #3 is Queuing
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '2819' of simulation:
+        Truck #0 is Unloading: Unloading takes 5
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 292
+        Truck #3 is Queuing
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '2824' of simulation:
+        Truck #0 is Moving   : Moving takes 30
+        Truck #1 is Mining   : Mining session takes 273
+        Truck #2 is Mining   : Mining session takes 292
+        Truck #3 is Queuing
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '2854' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 273
+        Truck #2 is Mining   : Mining session takes 292
+        Truck #3 is Queuing
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '2946' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 273
+        Truck #2 is Unloading: Unloading takes 5
+        Truck #3 is Queuing
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '2951' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 273
+        Truck #2 is Moving   : Moving takes 30
+        Truck #3 is Mining   : Mining session takes 147
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '2981' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 273
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 147
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '3097' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Unloading: Unloading takes 5
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 147
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '3098' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Unloading: Unloading takes 5
+        Truck #2 is Queuing
+        Truck #3 is Unloading: Unloading takes 5
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '3102' of simulation:
+        Truck #0 is Mining   : Mining session takes 162
+        Truck #1 is Moving   : Moving takes 30
+        Truck #2 is Queuing
+        Truck #3 is Unloading: Unloading takes 5
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '3103' of simulation:
+        Truck #0 is Mining   : Mining session takes 162
+        Truck #1 is Moving   : Moving takes 30
+        Truck #2 is Mining   : Mining session takes 192
+        Truck #3 is Moving   : Moving takes 30
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 0 truck(s) in the queue.
+
+@ Minute '3132' of simulation:
+        Truck #0 is Mining   : Mining session takes 162
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 192
+        Truck #3 is Moving   : Moving takes 30
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '3133' of simulation:
+        Truck #0 is Mining   : Mining session takes 162
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 192
+        Truck #3 is Queuing
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '3264' of simulation:
+        Truck #0 is Unloading: Unloading takes 5
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 192
+        Truck #3 is Queuing
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '3269' of simulation:
+        Truck #0 is Moving   : Moving takes 30
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 192
+        Truck #3 is Mining   : Mining session takes 110
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '3295' of simulation:
+        Truck #0 is Moving   : Moving takes 30
+        Truck #1 is Queuing
+        Truck #2 is Unloading: Unloading takes 5
+        Truck #3 is Mining   : Mining session takes 110
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '3299' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Queuing
+        Truck #2 is Unloading: Unloading takes 5
+        Truck #3 is Mining   : Mining session takes 110
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '3300' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 121
+        Truck #2 is Moving   : Moving takes 30
+        Truck #3 is Mining   : Mining session takes 110
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '3330' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 121
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 110
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '3379' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 121
+        Truck #2 is Queuing
+        Truck #3 is Unloading: Unloading takes 5
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '3384' of simulation:
+        Truck #0 is Mining   : Mining session takes 299
+        Truck #1 is Mining   : Mining session takes 121
+        Truck #2 is Queuing
+        Truck #3 is Moving   : Moving takes 30
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '3414' of simulation:
+        Truck #0 is Mining   : Mining session takes 299
+        Truck #1 is Mining   : Mining session takes 121
+        Truck #2 is Queuing
+        Truck #3 is Queuing
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '3421' of simulation:
+        Truck #0 is Mining   : Mining session takes 299
+        Truck #1 is Unloading: Unloading takes 5
+        Truck #2 is Queuing
+        Truck #3 is Queuing
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '3426' of simulation:
+        Truck #0 is Mining   : Mining session takes 299
+        Truck #1 is Moving   : Moving takes 30
+        Truck #2 is Mining   : Mining session takes 142
+        Truck #3 is Queuing
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '3456' of simulation:
+        Truck #0 is Mining   : Mining session takes 299
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 142
+        Truck #3 is Queuing
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '3568' of simulation:
+        Truck #0 is Mining   : Mining session takes 299
+        Truck #1 is Queuing
+        Truck #2 is Unloading: Unloading takes 5
+        Truck #3 is Queuing
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '3573' of simulation:
+        Truck #0 is Mining   : Mining session takes 299
+        Truck #1 is Mining   : Mining session takes 266
+        Truck #2 is Moving   : Moving takes 30
+        Truck #3 is Queuing
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '3603' of simulation:
+        Truck #0 is Mining   : Mining session takes 299
+        Truck #1 is Mining   : Mining session takes 266
+        Truck #2 is Queuing
+        Truck #3 is Queuing
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '3683' of simulation:
+        Truck #0 is Unloading: Unloading takes 5
+        Truck #1 is Mining   : Mining session takes 266
+        Truck #2 is Queuing
+        Truck #3 is Queuing
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '3688' of simulation:
+        Truck #0 is Moving   : Moving takes 30
+        Truck #1 is Mining   : Mining session takes 266
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 147
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '3718' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 266
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 147
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '3835' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 266
+        Truck #2 is Queuing
+        Truck #3 is Unloading: Unloading takes 5
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '3839' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Unloading: Unloading takes 5
+        Truck #2 is Queuing
+        Truck #3 is Unloading: Unloading takes 5
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '3840' of simulation:
+        Truck #0 is Mining   : Mining session takes 273
+        Truck #1 is Unloading: Unloading takes 5
+        Truck #2 is Queuing
+        Truck #3 is Moving   : Moving takes 30
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '3844' of simulation:
+        Truck #0 is Mining   : Mining session takes 273
+        Truck #1 is Moving   : Moving takes 30
+        Truck #2 is Mining   : Mining session takes 101
+        Truck #3 is Moving   : Moving takes 30
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 0 truck(s) in the queue.
+
+@ Minute '3870' of simulation:
+        Truck #0 is Mining   : Mining session takes 273
+        Truck #1 is Moving   : Moving takes 30
+        Truck #2 is Mining   : Mining session takes 101
+        Truck #3 is Queuing
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '3874' of simulation:
+        Truck #0 is Mining   : Mining session takes 273
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 101
+        Truck #3 is Queuing
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '3945' of simulation:
+        Truck #0 is Mining   : Mining session takes 273
+        Truck #1 is Queuing
+        Truck #2 is Unloading: Unloading takes 5
+        Truck #3 is Queuing
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '3950' of simulation:
+        Truck #0 is Mining   : Mining session takes 273
+        Truck #1 is Queuing
+        Truck #2 is Moving   : Moving takes 30
+        Truck #3 is Mining   : Mining session takes 215
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '3980' of simulation:
+        Truck #0 is Mining   : Mining session takes 273
+        Truck #1 is Queuing
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 215
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '4113' of simulation:
+        Truck #0 is Unloading: Unloading takes 5
+        Truck #1 is Queuing
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 215
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '4118' of simulation:
+        Truck #0 is Moving   : Moving takes 30
+        Truck #1 is Mining   : Mining session takes 126
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 215
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '4148' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 126
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 215
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '4165' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 126
+        Truck #2 is Queuing
+        Truck #3 is Unloading: Unloading takes 5
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '4170' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 126
+        Truck #2 is Mining   : Mining session takes 113
+        Truck #3 is Moving   : Moving takes 30
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '4200' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Mining   : Mining session takes 126
+        Truck #2 is Mining   : Mining session takes 113
+        Truck #3 is Queuing
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '4244' of simulation:
+        Truck #0 is Queuing
+        Truck #1 is Unloading: Unloading takes 5
+        Truck #2 is Mining   : Mining session takes 113
+        Truck #3 is Queuing
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '4249' of simulation:
+        Truck #0 is Mining   : Mining session takes 129
+        Truck #1 is Moving   : Moving takes 30
+        Truck #2 is Mining   : Mining session takes 113
+        Truck #3 is Queuing
+        Station #1 has 0 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+@ Minute '4279' of simulation:
+        Truck #0 is Mining   : Mining session takes 129
+        Truck #1 is Queuing
+        Truck #2 is Mining   : Mining session takes 113
+        Truck #3 is Queuing
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '4283' of simulation:
+        Truck #0 is Mining   : Mining session takes 129
+        Truck #1 is Queuing
+        Truck #2 is Unloading: Unloading takes 5
+        Truck #3 is Queuing
+        Station #0 has 1 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '4288' of simulation:
+        Truck #0 is Mining   : Mining session takes 129
+        Truck #1 is Queuing
+        Truck #2 is Moving   : Moving takes 30
+        Truck #3 is Mining   : Mining session takes 295
+        Station #0 has 0 truck(s) in the queue.
+        Station #1 has 1 truck(s) in the queue.
+
+@ Minute '4318' of simulation:
+        Truck #0 is Mining   : Mining session takes 129
+        Truck #1 is Queuing
+        Truck #2 is Queuing
+        Truck #3 is Mining   : Mining session takes 295
+        Station #1 has 1 truck(s) in the queue.
+        Station #0 has 1 truck(s) in the queue.
+
+Simulation Finished. Printing Staistics.
+Truck #0:
+        Spent 2194 minutes Mining
+        Spent 60 minutes Unloading
+        Spent 390 minutes Moving
+        Spent 1676 minutes Queuing
+Truck #1:
+        Spent 2179 minutes Mining
+        Spent 55 minutes Unloading
+        Spent 360 minutes Moving
+        Spent 1726 minutes Queuing
+Truck #2:
+        Spent 2077 minutes Mining
+        Spent 60 minutes Unloading
+        Spent 390 minutes Moving
+        Spent 1793 minutes Queuing
+Truck #3:
+        Spent 1871 minutes Mining
+        Spent 60 minutes Unloading
+        Spent 390 minutes Moving
+        Spent 1999 minutes Queuing
+
+C:\Users\bigpo\source\repos\VastTakeHomeExercise\x64\Debug\VastTakeHomeExercise.exe (process 840) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
