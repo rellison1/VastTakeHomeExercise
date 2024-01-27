@@ -46,6 +46,10 @@ Please feel free to ask any clarifying questions about this assignment via email
   # Design
     The design tries to mimic my take on the prompt which is matching classes to the objects or components of the program. The interdepencies/interactions are managed by the Operation which contains containers of the trucks and the stations. The simulation proceeds by performing an 'update' every minute of the duration of the simulation. This follows the logic of a simulation where we try to simulate real time scenario. An update is performed every minute as it is the lowest time unit that will ensure all actions are handled on time. For instance, if we checked/updated every hour, the unloading which takes 5 minutes would not be caught. A minute is chosen as the mining duration can be any range of minutes from 1 hour to 5 hours so every minute needs to be checked. The trucks are checked first to see when, based on the times of the actions and when they were started, if the state should change. The stations basically react or will change based on what the trucks are doing. 
 
+  # Output
+    Output for the normal program is the status and time when updates are made(change in status) of all trucks and the stations. 
+    Example output files are provided. They are the saved contents of the console when using various inputs.
+
   # Considerations taken when writing the code
     Extensibility
       I tried to balance making the design more flexible/open/extensible but given the prompt and no need for enhancements (given it is a one off project) the design could be done to be more flexble if there was the expectation of updating/expanding.
