@@ -45,7 +45,6 @@ Operation::~Operation()
 void Operation::update(int currentTimeOfSimulation)
 {
     bool updatedAtCurrentTime = false;
-    // 
     for (auto& x : trucks)
     {
         minutes lastUpdatedTime = x->getLastUpdatedTime();
