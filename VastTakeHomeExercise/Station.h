@@ -2,7 +2,6 @@
 // This file contains the class and data for a Station representation
 #include "Component.h"
 #include <queue>
-// This file contains the class and data for a Station representation
 class Station : public Component
 {
 private:
