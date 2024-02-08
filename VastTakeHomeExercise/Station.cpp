@@ -15,7 +15,7 @@ void Station::update(minutes currentTimeOfSimulation)
     bool updated = false;
     if(currentTruck->shouldUpdateObserver())
     {
-        // If there are stations in the queue, set top of the queue to 
+        // If there are trucks in the queue, set top of the queue to 
         // the new current truck, update it, and remove it from the queue.
         if(!queue.empty())
         {
@@ -25,7 +25,7 @@ void Station::update(minutes currentTimeOfSimulation)
         }
         else
         {
-            // If there are no stations in the queue, then there is no new
+            // If there are no trucks in the queue, then there is no new
             // current truck for the station
             currentTruck = nullptr;
         }
